@@ -1,0 +1,2 @@
+Python 2.7X
+Apache PDFBox 2.6 (https://pdfbox.apache.org)
