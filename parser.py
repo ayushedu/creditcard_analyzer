@@ -13,10 +13,6 @@ import pandas as pd
 import locale
 import ConfigParser
 
-
-# Change directory
-#os.chdir("/Users/snowleopard/workspace/hack/creditcard_analyzer")
-
 #==============================================================================
 # Convert PDF to text using Apache PDFBox
 #==============================================================================
