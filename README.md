@@ -1,3 +1,4 @@
+]
 # creditcard_analyzer
 This code converts the encrypted pdf statements into a excel file having a detailed sheet and a summary sheet.
 
@@ -13,3 +14,4 @@ Configuration is provided in config.ini:
 
 ## Usage
 Edit the configuration in config.ini and execute "**python parser.py**". The excel file with extension .xlsx will be created.
+This line should be treated as dummy
