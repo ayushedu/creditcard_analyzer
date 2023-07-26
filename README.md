@@ -12,4 +12,5 @@ Configuration is provided in config.ini:
 * FILE_NAME_PREFIX: Output file name
 
 ## Usage
-Edit the configuration in config.ini and execute "**python parser.py**". The excel file with extension .xlsx will be created.
+Edit the configuration in config.ini and execute "**python parser.py**". The excel file with extension .xlsx will be created
+This is a dummuy line
