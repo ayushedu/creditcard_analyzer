@@ -13,3 +13,5 @@ Configuration is provided in config.ini:
 
 ## Usage
 Edit the configuration in config.ini and execute "**python parser.py**". The excel file with extension .xlsx will be created.
+
+## This line is to specify that usinf fork, we can clone it to local repo and make changes in it
