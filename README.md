@@ -13,3 +13,7 @@ Configuration is provided in config.ini:
 
 ## Usage
 Edit the configuration in config.ini and execute "**python parser.py**". The excel file with extension .xlsx will be created.
+
+This line should be treated as dummy
+
+This line should be treated as dummy dummy dummy!
